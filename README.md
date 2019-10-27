@@ -1,4 +1,3 @@
-THE KAPREKAR
 #include<stdio.h>
 int main()
 {
